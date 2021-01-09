@@ -1,5 +1,5 @@
 <p align="center">
-   <img src=".github/logo.png" width="auto"/>
+   <img src=".github/logo.jpg" width="auto"/>
 </p>
 
 <h1 align="center">
@@ -11,20 +11,20 @@
 </p>
 
 <p align="center">
-   <img src=".github/preview.png" width="auto"/>
+   <img src=".github/preview.jpg" width="auto"/>
 </p>
 
 ## Color Palette
 
 <p align="center">
-    <img src=".github/palette.png" width="auto"/>
+    <img src=".github/palette.jpg" width="auto"/>
 </p>
 
-## Installing from Visual Studio Code Marketplace :star:
+## Installing from Visual Studio Code Marketplace
 
 You can install directly from the Extensions tab hitting (CTRL + Shift + X), and searching for **cosmos-theme**.
 
-## Installing locally :running:
+## Installing locally
 
 To create the theme you will need [Node.js](https://nodejs.org/en/) installed.
 
@@ -62,10 +62,10 @@ Installing the theme
 
 ```
 
-## Contributing :+1:
+## Contributing
 
 This theme will always be open to the community. Feel free to send any suggestion, feature, bug fixes or anything to help it's development.
 
-## Issues :bug:
+## Issues
 
 Found any bug? Feel free to report it.
