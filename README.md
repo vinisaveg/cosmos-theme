@@ -16,11 +16,13 @@
 
 ## Color Palette
 
-<img src=".github/palette.png" width="auto"/>
+<p align="center">
+    <img src=".github/palette.png" width="auto"/>
+</p>
 
-## Installing from Visual Studio Code Extensions Marketplace :star:
+## Installing from Visual Studio Code Marketplace :star:
 
-You can install directly from the Extensions tab hitting (CTRL + Shift + X), and searching for cosmos-theme.
+You can install directly from the Extensions tab hitting (CTRL + Shift + X), and searching for **cosmos-theme**.
 
 ## Installing locally :running:
 
