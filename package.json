@@ -1,0 +1,22 @@
+{
+    "name": "cosmos-theme",
+    "displayName": "cosmos-theme",
+    "description": "An outta space color theme",
+    "version": "0.0.1",
+    "publisher": "vinisaveg",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cosmos Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cosmos-theme-color-theme.json"
+            }
+        ]
+    }
+}
