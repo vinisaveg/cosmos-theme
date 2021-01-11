@@ -22,7 +22,7 @@
 
 ## Installing from Visual Studio Code Marketplace
 
-You can install directly from the Extensions tab hitting (CTRL + Shift + X), and searching for **cosmos-theme**.
+You can install directly from the Extensions tab hitting (CTRL + Shift + X).
 
 ## Installing locally
 
