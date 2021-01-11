@@ -58,7 +58,7 @@ Installing the theme
 
 ```
 
-    code --install-extension ./cosmos-theme-color-theme.vsix
+    code --install-extension ./cosmos-theme-1.0.0.vsix
 
 ```
 
