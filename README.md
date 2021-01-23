@@ -1,6 +1,20 @@
+<p align="center">
+   <img src=".github/logo.png" width="300"/>
+</p>
+
 # Cosmos Theme
 
 > An outta space Visual Studio Code theme
+
+<p align="center">
+   <img src=".github/preview.png" width="auto"/>
+</p>
+
+## Color Palette
+
+<p align="center">
+   <img src=".github/palette.png" width="auto"/>
+</p>
 
 ## Installing from Visual Studio Code Marketplace
 
