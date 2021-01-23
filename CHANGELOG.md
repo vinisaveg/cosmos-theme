@@ -8,3 +8,10 @@ All notable changes to the "cosmos-theme" extension will be documented in this f
 - Dark mode theme
 - Editor colors setup
 - TokenColors setup
+
+...
+
+## [1.0.4]
+
+- activityBarBadge Changed
+- selectionBackground Changed

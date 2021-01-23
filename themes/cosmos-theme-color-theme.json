@@ -8,8 +8,8 @@
 		"activityBar.foreground": "#5dee9f",
 		"activityBar.inactiveForeground": "#483c67",
 		"activityBarBadge.background": "#6875e5",
-		"activityBarBadge.foreground": "#191622",
-		"badge.background": "#5dee9f",
+		"activityBarBadge.foreground": "#e1e1e6",
+		"badge.background": "#6875e5",
 		"badge.foreground": "#e1e1e6",
 		"breadcrumb.activeSelectionForeground": "#e1e1e6",
 		"breadcrumb.background": "#191622",
@@ -35,13 +35,13 @@
 		"editor.lineHighlightBackground": "#201b2d",
 		"editor.lineHighlightBorder": "#191622",
 		"editor.rangeHighlightBackground": "#78d1e115",
-		"editor.selectionBackground": "#848cd4",
+		"editor.selectionBackground": "#463d5c",
 		"editor.selectionHighlightBackground": "#252131",
 		"editor.snippetFinalTabstopHighlightBackground": "#191622",
-		"editor.snippetFinalTabstopHighlightBorder": "#67e480",
+		"editor.snippetFinalTabstopHighlightBorder": "#5dee9f",
 		"editor.snippetTabstopHighlightBackground": "#191622",
 		"editor.snippetTabstopHighlightBorder": "#483c67",
-		"editor.wordHighlightBackground": "#988bc750",
+		"editor.wordHighlightBackground": "#988bc7",
 		"editor.wordHighlightStrongBackground": "#67e48050",
 		"editorCodeLens.foreground": "#483c67",
 		"editorError.foreground": "#f8768c",
@@ -766,7 +766,7 @@
 				"punctuation.definition.parameters.begin"
 			],
 			"settings": {
-				"foreground": "#E9F373"
+				"foreground": "#E9F373",
 			}
 		},
 		{

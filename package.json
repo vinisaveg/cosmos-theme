@@ -1,6 +1,6 @@
 {
     "name": "cosmos-theme",
-    "displayName": "cosmos-theme",
+    "displayName": "Cosmos Theme",
     "author": {
         "name": "vinisaveg",
         "url": "https://vinisaveg.com"
@@ -10,12 +10,17 @@
         "directory": "vinisaveg/cosmos-theme",
         "url": "https://github.com/vinisaveg/cosmos-theme"
     },
-    "version": "1.0.0",
+    "version": "1.0.4",
     "publisher": "vinisaveg",
     "engines": {
         "vscode": "^1.52.0",
         "node": "^10.19.0"
     },
+    "galleryBanner": {
+        "color": "2D283B",
+        "theme": "dark"
+    },
+    "icon": ".github/theme-icon.jpg",
     "categories": [
         "Themes"
     ],
